@@ -1,0 +1,18 @@
+{
+  "name": "frea",
+  "version": "1.0.0",
+  "description": "Frea is a multipurpose Discord bot made for beginners.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot",
+    "discord"
+  ],
+  "author": "devpranchi",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^13.2.0"
+  }
+}
